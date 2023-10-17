@@ -53,11 +53,7 @@ The project builds upon the previous work of [Hilal Al Shukairi](https://github.
 
 ## 🪧 Project Demo
 
-<!-- ![Alt Text](assets/recording.mp4) -->
-
-<video controls>
-  <source src="https://raw.githubusercontent.com/Abhijith14/ML-MAS-Framework/master/assets/recording.mp4" type="video/mp4">
-</video>
+[![Watch the video](https://raw.githubusercontent.com/Abhijith14/ML-MAS-Framework/master/assets/1.jpg)](https://youtu.be/w_MV3tC-NNw)
 
 ---
 
