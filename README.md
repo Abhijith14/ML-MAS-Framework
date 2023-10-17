@@ -53,7 +53,7 @@ The project builds upon the previous work of [Hilal Al Shukairi](https://github.
 
 ## 🪧 Project Demo
 
-[![Watch the video](https://raw.githubusercontent.com/Abhijith14/ML-MAS-Framework/master/assets/1.jpg)](https://youtu.be/w_MV3tC-NNw)
+[![Watch the video](https://raw.githubusercontent.com/Abhijith14/ML-MAS-Framework/master/assets/0.png)](https://youtu.be/w_MV3tC-NNw)
 
 ---
 
