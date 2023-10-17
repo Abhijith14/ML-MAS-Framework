@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style&logo=Python&logoColor=white" alt="Python" />
 <a href="http://jason-lang.github.io/jason/doc/" target="_blank"><img src="https://img.shields.io/badge/JASON-000000.svg?style&logo=JASON&logoColor=white" alt="JASON" /></a>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style&logo=openjdk&logoColor=white" alt="java" />
-<img src="https://img.shields.io/badge/carla-%23ED8B00.svg?style&logo=carla&logoColor=white" alt="carla" />
+<img src="https://img.shields.io/badge/CARLA-%23ED8B00.svg?style&logo=CARLA&logoColor=black&color=white" alt="carla" />
 <br>
 <img src="https://img.shields.io/github/license/Abhijith14/ML-MAS-Framework?style&color=5D6D7E" alt="GitHub license" />
 <img src="https://img.shields.io/github/last-commit/Abhijith14/ML-MAS-Framework?style&color=5D6D7E" alt="git-last-commit" />
