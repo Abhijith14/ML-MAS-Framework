@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/Abhijith14/ML-MAS-Framework/master/assets/1.jpg" width="500" />
+<img src="https://raw.githubusercontent.com/Abhijith14/ML-MAS-Framework/master/readme_assets/logo.png" width="500" />
 <br>ML-MAS-FRAMEWORK</h1>
 <h3>Improving Self-Driving Performance using <a href="https://github.com/alshukairi/MLMAS-Framework-AAMAS23">ML-MAS Framework</a></h3>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style&logo=Python&logoColor=white" alt="Python" />
